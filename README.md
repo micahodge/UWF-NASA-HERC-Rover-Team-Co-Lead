@@ -7,7 +7,7 @@ Currently, I am the lead engineer on the team, performing final component and de
 <br />
 
 
-<h2>Tools Used</h2>
+<h2>Components Used</h2>
 
 - <b>SolidWorks</b> 
 - <b>Bambu Studio with Bambu Lab P2S</b>
