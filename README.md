@@ -1,4 +1,5 @@
-<h1>Team Co-Lead of UWF NASA HERC Rover Team</h1>
+<h1>Team Co-Lead of UWF NASA HERC Rover Team 
+ <br /><i><sub>(In Progress, Competing in April 2027)</sub><i/></h1>
 
 <h2>Description</h2>
 Currently co-lead a team of 13 students at the University of West Florida's Rover team. The team's goal is to compete in the NASA HERC Rover Challenge in April 2027, which is a rover competition where rovers must traverse over obstacles with rough terrain and complete a data collection task with on-course targets. The course must be completed in 12 minutes to qualify for any points. We have been accepted into the RC-division, and we submitted our Design Review Paper on November 24, 2026. We have completed roughly 80% of the rover's design, including mechanical/hardware subsystems design, the power subsystem, and most of the electrical/electronic subsystems design. The team is currently completing final revisions to the rover's design to ensure maximum points are earned at the competition. I will co-lead this team until I start my Capstone project in Fall 2027. <br />
