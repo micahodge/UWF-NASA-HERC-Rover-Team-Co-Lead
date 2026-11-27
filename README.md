@@ -6,7 +6,7 @@ Currently co-lead a team of 11 students at the University of West Florida's Rove
 <br />
 Currently, I am the lead engineer on the team, performing initial/final component and design selection for most subsystems on the hardware, software, and electrical components on the rover. This includes co-creating and finalizing designs for the chassis components layout, the 4-wheel rocker suspension system, the wheel design, the drivetrain design, etc. For the design review, I provided design alternatives for each subsystem and performed analysis on certain subsystem, such as a power consumption analysis for the rover and the rover's electronic architecture. The team plans to attempt and complete every obstacle (including the task) on the course, which is not common amongst most competing teams. <br />
 <br />
-Also, I am designing PCB boards for the power distribution subsystems and electronic controls for the drivetrain, steering, and task tool subsystems. This project is building on my introductory experience with KiCad. 
+Also, I am designing PCB boards for the power distribution subsystems and electronic controls for the drivetrain, steering, and task tool subsystems. This project is allowing me to vastly expand my experience and interest with PCB design in KiCad.
 <br />
 
 <h2>Components Used</h2>
